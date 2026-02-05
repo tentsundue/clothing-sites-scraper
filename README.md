@@ -1,5 +1,5 @@
-FOR UNIQLO SCRAPING:
- ''' 
+## FOR UNIQLO SCRAPING:
+```
         What is given during scraping:
             productInfo --> {
                                     productId, 
@@ -52,6 +52,5 @@ FOR UNIQLO SCRAPING:
 
                                         {...},
                                     ]
-
-        '''
+```
     

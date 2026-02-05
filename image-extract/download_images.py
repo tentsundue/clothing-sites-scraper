@@ -2,6 +2,8 @@ import os
 import json
 import glob
 import csv
+import time
+from PIL import Image
 
 import requests
 
@@ -44,27 +46,58 @@ class DownloadImages:
         print(f"\nSaved {len(self.images)} rows to {output_path}")
 
     def download_images(self):
-        print("\nStarting image download...")
+        print("\nStarting image downloads...")
+        failures = []
         for image in self.images:
             image_id, product_id, variant_id, category, price, currency, image_url, product_url, brand = image
-            image_extension = os.path.splitext(image_url)[1]
+            image_extension = os.path.splitext(image_url)[1] or '.jpg'  # Default to .jpg if no extension found
             image_filename = f"{image_id}_{product_id}_{variant_id}{image_extension}"
-            image_path = os.path.join(f'data/images/{self.brand}/product-images', image_filename)
+            os.makedirs(f'data/images/{brand}/product-images', exist_ok=True)
+            image_path = os.path.join(f'data/images/{brand}/product-images', image_filename)
+
+            # Skip if already downloaded
+            if os.path.exists(image_path):
+                continue
 
             try:
-                response = requests.get(image_url, stream=True)
-                if response.status_code == 200:
-                    with open(image_path, 'wb') as img_file:
-                        for chunk in response.iter_content(1024):
-                            img_file.write(chunk)
-                    print(f"Downloaded image: {image_filename}")
-                else:
-                    print(f"Failed to download image {image_filename}: Status code {response.status_code}")
+                response = requests.get(image_url, stream=True, timeout=10)
+
+                if response.status_code != 200:
+                    failures.append((image_url, response.status_code))
+                    continue
+                
+                with open(image_path, 'wb') as img_file:
+                    for chunk in response.iter_content(1024):
+                        img_file.write(chunk)
+                
+                # Validate AFTER saving, re-open for conversion
+                try:
+                    with Image.open(image_path) as img:
+                        img.verify()
+
+                    with Image.open(image_path) as img:
+                        img = img.convert("RGB")
+                        img.save(image_path)
+
+                except Exception as verify_error:
+                    print(f"Invalid image removed: {image_filename} -> {verify_error}")
+                    os.remove(image_path)
+                    failures.append((image_url, "Invalid image"))
+
+                print(f"== Downloaded image: {image_filename} ==")
+
+                time.sleep(0.5) # Don't overwhelm the server with requests and get locked out
+
             except Exception as e:
-                print(f"Exception occurred while downloading image {image_filename}: {e}")
+                failures.append((image_url, str(e)))
 
-        print("\nImage download completed.")
+        print("\nImage downloads completed.")
 
+        if failures:
+            print(f"\nFailed to download {len(failures)} images.")
+            for failure in failures:
+                print(f"Failed URL: {failure[0]}, With Failure: {failure[1]}")
+        
 if __name__ == '__main__':
     product_brands = glob.glob('data/products/*')
     for brand_path in product_brands:
@@ -72,3 +105,4 @@ if __name__ == '__main__':
         brand = os.path.basename(brand_path)
         downloader = DownloadImages(brand)
         downloader.save_image_data()
+        downloader.download_images()
