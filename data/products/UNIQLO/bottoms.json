@@ -1,0 +1,1160 @@
+[
+    {
+        "id": "uniqlo_E479000-000",
+        "brand": "UNIQLO",
+        "name": "Barrel Jeans",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E479000-000/00",
+        "rating_avg": 4.8,
+        "rating_count": 324,
+        "variants": [
+            {
+                "variant_id": "COL00",
+                "color": "WHITE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479000/item/goods_00_479000_3x4.jpg"
+            },
+            {
+                "variant_id": "COL08",
+                "color": "DARK GRAY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479000/item/usgoods_08_479000_3x4.jpg"
+            },
+            {
+                "variant_id": "COL64",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479000/item/usgoods_64_479000_3x4.jpg"
+            },
+            {
+                "variant_id": "COL67",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479000/item/usgoods_67_479000_3x4.jpg"
+            },
+            {
+                "variant_id": "COL69",
+                "color": "NAVY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479000/item/usgoods_69_479000_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E480740-000",
+        "brand": "UNIQLO",
+        "name": "Barrel Jeans | Short",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E480740-000/00",
+        "rating_avg": 4.6,
+        "rating_count": 11,
+        "variants": [
+            {
+                "variant_id": "COL00",
+                "color": "WHITE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/480740/item/goods_00_480740_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E484807-000",
+        "brand": "UNIQLO",
+        "name": "Barrel Jeans | Tall",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E484807-000/00",
+        "rating_avg": 5,
+        "rating_count": 2,
+        "variants": [
+            {
+                "variant_id": "COL08",
+                "color": "DARK GRAY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484807/item/usgoods_08_484807_3x4.jpg"
+            },
+            {
+                "variant_id": "COL00",
+                "color": "WHITE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484807/item/usgoods_00_484807_3x4.jpg"
+            },
+            {
+                "variant_id": "COL67",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484807/item/usgoods_67_484807_3x4.jpg"
+            },
+            {
+                "variant_id": "COL69",
+                "color": "NAVY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484807/item/usgoods_69_484807_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E484810-000",
+        "brand": "UNIQLO",
+        "name": "Bootcut Jeans | Short",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E484810-000/00",
+        "rating_avg": 5,
+        "rating_count": 1,
+        "variants": [
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484810/item/usgoods_09_484810_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E483999-000",
+        "brand": "UNIQLO",
+        "name": "Baggy Jeans",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E483999-000/00",
+        "rating_avg": 4.8,
+        "rating_count": 11,
+        "variants": [
+            {
+                "variant_id": "COL65",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483999/item/usgoods_65_483999_3x4.jpg"
+            },
+            {
+                "variant_id": "COL30",
+                "color": "NATURAL",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483999/item/usgoods_30_483999_3x4.jpg"
+            },
+            {
+                "variant_id": "COL67",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483999/item/usgoods_67_483999_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E482279-000",
+        "brand": "UNIQLO",
+        "name": "Straight Jeans",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E482279-000/00",
+        "rating_avg": 5,
+        "rating_count": 1,
+        "variants": [
+            {
+                "variant_id": "COL62",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482279/item/usgoods_62_482279_3x4.jpg"
+            },
+            {
+                "variant_id": "COL01",
+                "color": "OFF WHITE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482279/item/usgoods_01_482279_3x4.jpg"
+            },
+            {
+                "variant_id": "COL65",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482279/item/usgoods_65_482279_3x4.jpg"
+            },
+            {
+                "variant_id": "COL69",
+                "color": "NAVY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482279/item/usgoods_69_482279_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E484812-000",
+        "brand": "UNIQLO",
+        "name": "Straight Jeans | Short",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E484812-000/00",
+        "rating_avg": 4.5,
+        "rating_count": 2,
+        "variants": [
+            {
+                "variant_id": "COL62",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484812/item/usgoods_62_484812_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E485283-000",
+        "brand": "UNIQLO",
+        "name": "Bootcut Jeans | Short",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E485283-000/00",
+        "rating_avg": 4,
+        "rating_count": 1,
+        "variants": [
+            {
+                "variant_id": "COL68",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/485283/item/usgoods_68_485283_3x4.jpg"
+            },
+            {
+                "variant_id": "COL66",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/485283/item/goods_66_485283_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E476209-000",
+        "brand": "UNIQLO",
+        "name": "Straight Jeans",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E476209-000/00",
+        "rating_avg": 4.6,
+        "rating_count": 350,
+        "variants": [
+            {
+                "variant_id": "COL69",
+                "color": "NAVY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/476209/item/usgoods_69_476209_3x4.jpg"
+            },
+            {
+                "variant_id": "COL54",
+                "color": "GREEN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/476209/item/usgoods_54_476209_3x4.jpg"
+            },
+            {
+                "variant_id": "COL63",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/476209/item/usgoods_63_476209_3x4.jpg"
+            },
+            {
+                "variant_id": "COL65",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/476209/item/usgoods_65_476209_3x4.jpg"
+            },
+            {
+                "variant_id": "COL67",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/476209/item/usgoods_67_476209_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E485267-000",
+        "brand": "UNIQLO",
+        "name": "Bootcut Jeans",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E485267-000/00",
+        "rating_avg": 0,
+        "rating_count": 0,
+        "variants": [
+            {
+                "variant_id": "COL68",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/485267/item/usgoods_68_485267_3x4.jpg"
+            },
+            {
+                "variant_id": "COL66",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/485267/item/usgoods_66_485267_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E482282-000",
+        "brand": "UNIQLO",
+        "name": "Bootcut Jeans",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E482282-000/00",
+        "rating_avg": 0,
+        "rating_count": 0,
+        "variants": [
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482282/item/usgoods_09_482282_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E484430-000",
+        "brand": "UNIQLO",
+        "name": "Ultra Stretch Skinny Jeans",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E484430-000/00",
+        "rating_avg": 0,
+        "rating_count": 0,
+        "variants": [
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484430/item/usgoods_09_484430_3x4.jpg"
+            },
+            {
+                "variant_id": "COL66",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484430/item/usgoods_66_484430_3x4.jpg"
+            },
+            {
+                "variant_id": "COL69",
+                "color": "NAVY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484430/item/usgoods_69_484430_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E475344-000",
+        "brand": "UNIQLO",
+        "name": "Jersey Barrel Pants",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E475344-000/00",
+        "rating_avg": 4.8,
+        "rating_count": 481,
+        "variants": [
+            {
+                "variant_id": "COL39",
+                "color": "DARK BROWN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475344/item/usgoods_39_475344_3x4.jpg"
+            },
+            {
+                "variant_id": "COL01",
+                "color": "OFF WHITE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475344/item/usgoods_01_475344_3x4.jpg"
+            },
+            {
+                "variant_id": "COL08",
+                "color": "DARK GRAY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475344/item/usgoods_08_475344_3x4.jpg"
+            },
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475344/item/usgoods_09_475344_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E477345-000",
+        "brand": "UNIQLO",
+        "name": "Jersey Barrel Pants | Tall",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E477345-000/00",
+        "rating_avg": 5,
+        "rating_count": 4,
+        "variants": [
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477345/item/usgoods_09_477345_3x4.jpg"
+            },
+            {
+                "variant_id": "COL01",
+                "color": "OFF WHITE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477345/item/usgoods_01_477345_3x4.jpg"
+            },
+            {
+                "variant_id": "COL08",
+                "color": "DARK GRAY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477345/item/usgoods_08_477345_3x4.jpg"
+            },
+            {
+                "variant_id": "COL39",
+                "color": "DARK BROWN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477345/item/usgoods_39_477345_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E478848-000",
+        "brand": "UNIQLO",
+        "name": "Washable Knit Cable Pants",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 14.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E478848-000/00",
+        "rating_avg": 4.6,
+        "rating_count": 100,
+        "variants": [
+            {
+                "variant_id": "COL33",
+                "color": "KHAKI",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/478848/item/usgoods_33_478848_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E481369-000",
+        "brand": "UNIQLO",
+        "name": "Soft Velour Easy Pants",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 3.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E481369-000/00",
+        "rating_avg": 4.6,
+        "rating_count": 16,
+        "variants": [
+            {
+                "variant_id": "COL69",
+                "color": "NAVY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/481369/item/usgoods_69_481369_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E473791-000",
+        "brand": "UNIQLO",
+        "name": "Linen Blend Easy Pants",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 39.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E473791-000/00",
+        "rating_avg": 4.7,
+        "rating_count": 275,
+        "variants": [
+            {
+                "variant_id": "COL11",
+                "color": "PINK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473791/item/usgoods_11_473791_3x4.jpg"
+            },
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473791/item/usgoods_09_473791_3x4.jpg"
+            },
+            {
+                "variant_id": "COL30",
+                "color": "NATURAL",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473791/item/usgoods_30_473791_3x4.jpg"
+            },
+            {
+                "variant_id": "COL32",
+                "color": "BEIGE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473791/item/usgoods_32_473791_3x4.jpg"
+            },
+            {
+                "variant_id": "COL36",
+                "color": "BROWN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473791/item/usgoods_36_473791_3x4.jpg"
+            },
+            {
+                "variant_id": "COL50",
+                "color": "LIGHT GREEN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473791/item/usgoods_50_473791_3x4.jpg"
+            },
+            {
+                "variant_id": "COL65",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473791/item/usgoods_65_473791_3x4.jpg"
+            },
+            {
+                "variant_id": "COL69",
+                "color": "NAVY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473791/item/usgoods_69_473791_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E484604-000",
+        "brand": "UNIQLO",
+        "name": "Easy Pants | Gingham",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 39.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E484604-000/00",
+        "rating_avg": 0,
+        "rating_count": 0,
+        "variants": [
+            {
+                "variant_id": "COL36",
+                "color": "BROWN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484604/item/usgoods_36_484604_3x4.jpg"
+            },
+            {
+                "variant_id": "COL66",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484604/item/usgoods_66_484604_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E484605-000",
+        "brand": "UNIQLO",
+        "name": "Easy Pants | Striped",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 39.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E484605-000/00",
+        "rating_avg": 0,
+        "rating_count": 0,
+        "variants": [
+            {
+                "variant_id": "COL34",
+                "color": "BROWN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484605/item/usgoods_34_484605_3x4.jpg"
+            },
+            {
+                "variant_id": "COL62",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484605/item/usgoods_62_484605_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E483910-000",
+        "brand": "UNIQLO",
+        "name": "Easy Pants | Check",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 39.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E483910-000/00",
+        "rating_avg": 0,
+        "rating_count": 0,
+        "variants": [
+            {
+                "variant_id": "COL11",
+                "color": "PINK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483910/item/usgoods_11_483910_3x4.jpg"
+            },
+            {
+                "variant_id": "COL61",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483910/item/usgoods_61_483910_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E483908-000",
+        "brand": "UNIQLO",
+        "name": "Drape Easy Pants | Flower",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 39.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E483908-000/00",
+        "rating_avg": 0,
+        "rating_count": 0,
+        "variants": [
+            {
+                "variant_id": "COL31",
+                "color": "BEIGE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483908/item/usgoods_31_483908_3x4.jpg"
+            },
+            {
+                "variant_id": "COL68",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483908/item/usgoods_68_483908_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E482243-000",
+        "brand": "UNIQLO",
+        "name": "Cotton Relaxed Ankle Pants",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 39.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E482243-000/00",
+        "rating_avg": 5,
+        "rating_count": 10,
+        "variants": [
+            {
+                "variant_id": "COL37",
+                "color": "BROWN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482243/item/usgoods_37_482243_3x4.jpg"
+            },
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482243/item/usgoods_09_482243_3x4.jpg"
+            },
+            {
+                "variant_id": "COL30",
+                "color": "NATURAL",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482243/item/usgoods_30_482243_3x4.jpg"
+            },
+            {
+                "variant_id": "COL32",
+                "color": "BEIGE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482243/item/usgoods_32_482243_3x4.jpg"
+            },
+            {
+                "variant_id": "COL54",
+                "color": "GREEN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482243/item/usgoods_54_482243_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E482245-000",
+        "brand": "UNIQLO",
+        "name": "Stretch Jersey Easy Pants | Cotton Blend",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 39.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E482245-000/00",
+        "rating_avg": 4.8,
+        "rating_count": 8,
+        "variants": [
+            {
+                "variant_id": "COL55",
+                "color": "GREEN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482245/item/usgoods_55_482245_3x4.jpg"
+            },
+            {
+                "variant_id": "COL03",
+                "color": "GRAY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482245/item/usgoods_03_482245_3x4.jpg"
+            },
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482245/item/usgoods_09_482245_3x4.jpg"
+            },
+            {
+                "variant_id": "COL60",
+                "color": "LIGHT BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482245/item/usgoods_60_482245_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E483896-000",
+        "brand": "UNIQLO",
+        "name": "Cotton Relaxed Ankle Pants | Denim",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 39.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E483896-000/00",
+        "rating_avg": 4.3,
+        "rating_count": 6,
+        "variants": [
+            {
+                "variant_id": "COL65",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483896/item/usgoods_65_483896_3x4.jpg"
+            },
+            {
+                "variant_id": "COL67",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483896/item/usgoods_67_483896_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E470173-000",
+        "brand": "UNIQLO",
+        "name": "Washable Ribbed Knit Pants",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 39.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E470173-000/00",
+        "rating_avg": 4.5,
+        "rating_count": 651,
+        "variants": [
+            {
+                "variant_id": "COL03",
+                "color": "GRAY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/470173/item/usgoods_03_470173_3x4.jpg"
+            },
+            {
+                "variant_id": "COL08",
+                "color": "DARK GRAY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/470173/item/usgoods_08_470173_3x4.jpg"
+            },
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/470173/item/usgoods_09_470173_3x4.jpg"
+            },
+            {
+                "variant_id": "COL30",
+                "color": "NATURAL",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/470173/item/usgoods_30_470173_3x4.jpg"
+            },
+            {
+                "variant_id": "COL64",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/470173/item/usgoods_64_470173_3x4.jpg"
+            },
+            {
+                "variant_id": "COL69",
+                "color": "NAVY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/470173/item/usgoods_69_470173_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E479399-000",
+        "brand": "UNIQLO",
+        "name": "Nylon Culottes",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 9.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E479399-000/00",
+        "rating_avg": 4.6,
+        "rating_count": 142,
+        "variants": [
+            {
+                "variant_id": "COL38",
+                "color": "DARK BROWN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479399/item/usgoods_38_479399_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E479620-000",
+        "brand": "UNIQLO",
+        "name": "Wide Sweatpants",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 39.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E479620-000/00",
+        "rating_avg": 4.8,
+        "rating_count": 114,
+        "variants": [
+            {
+                "variant_id": "COL01",
+                "color": "OFF WHITE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479620/item/usgoods_01_479620_3x4.jpg"
+            },
+            {
+                "variant_id": "COL03",
+                "color": "GRAY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479620/item/usgoods_03_479620_3x4.jpg"
+            },
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479620/item/usgoods_09_479620_3x4.jpg"
+            },
+            {
+                "variant_id": "COL10",
+                "color": "PINK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479620/item/usgoods_10_479620_3x4.jpg"
+            },
+            {
+                "variant_id": "COL39",
+                "color": "DARK BROWN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479620/item/usgoods_39_479620_3x4.jpg"
+            },
+            {
+                "variant_id": "COL59",
+                "color": "DARK GREEN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479620/item/usgoods_59_479620_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E474481-000",
+        "brand": "UNIQLO",
+        "name": "Ultra Stretch Active Wide Pants",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 39.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E474481-000/00",
+        "rating_avg": 4.5,
+        "rating_count": 137,
+        "variants": [
+            {
+                "variant_id": "COL08",
+                "color": "DARK GRAY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/474481/item/usgoods_08_474481_3x4.jpg"
+            },
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/474481/item/usgoods_09_474481_3x4.jpg"
+            },
+            {
+                "variant_id": "COL32",
+                "color": "BEIGE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/474481/item/usgoods_32_474481_3x4.jpg"
+            },
+            {
+                "variant_id": "COL39",
+                "color": "DARK BROWN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/474481/item/usgoods_39_474481_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E481248-000",
+        "brand": "UNIQLO",
+        "name": "Wide Sweatpants | Short",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 39.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E481248-000/00",
+        "rating_avg": 4.8,
+        "rating_count": 43,
+        "variants": [
+            {
+                "variant_id": "COL01",
+                "color": "OFF WHITE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/481248/item/usgoods_01_481248_3x4.jpg"
+            },
+            {
+                "variant_id": "COL03",
+                "color": "GRAY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/481248/item/usgoods_03_481248_3x4.jpg"
+            },
+            {
+                "variant_id": "COL10",
+                "color": "PINK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/481248/item/usgoods_10_481248_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E476108-000",
+        "brand": "UNIQLO",
+        "name": "Wide Sweatpants | 2025 Edition",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 39.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E476108-000/00",
+        "rating_avg": 4.8,
+        "rating_count": 389,
+        "variants": [
+            {
+                "variant_id": "COL03",
+                "color": "GRAY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/476108/item/usgoods_03_476108_3x4.jpg"
+            },
+            {
+                "variant_id": "COL01",
+                "color": "OFF WHITE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/476108/item/usgoods_01_476108_3x4.jpg"
+            },
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/476108/item/goods_09_476108_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E455942-000",
+        "brand": "UNIQLO",
+        "name": "Ultra Stretch Active Jogger Pants",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 29.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E455942-000/00",
+        "rating_avg": 4.6,
+        "rating_count": 344,
+        "variants": [
+            {
+                "variant_id": "COL07",
+                "color": "GRAY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/455942/item/usgoods_07_455942_3x4.jpg"
+            },
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/455942/item/usgoods_09_455942_3x4.jpg"
+            },
+            {
+                "variant_id": "COL30",
+                "color": "NATURAL",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/455942/item/usgoods_30_455942_3x4.jpg"
+            },
+            {
+                "variant_id": "COL69",
+                "color": "NAVY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/455942/item/usgoods_69_455942_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E483296-000",
+        "brand": "UNIQLO",
+        "name": "Ultra Stretch Active Flare Leggings",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 29.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E483296-000/00",
+        "rating_avg": 4,
+        "rating_count": 2,
+        "variants": [
+            {
+                "variant_id": "COL08",
+                "color": "DARK GRAY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483296/item/usgoods_08_483296_3x4.jpg"
+            },
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483296/item/usgoods_09_483296_3x4.jpg"
+            },
+            {
+                "variant_id": "COL39",
+                "color": "DARK BROWN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483296/item/usgoods_39_483296_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E479617-000",
+        "brand": "UNIQLO",
+        "name": "HEATTECH Pile Lined Sweatpants",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 19.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E479617-000/00",
+        "rating_avg": 4.2,
+        "rating_count": 61,
+        "variants": [
+            {
+                "variant_id": "COL01",
+                "color": "OFF WHITE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479617/item/usgoods_01_479617_3x4.jpg"
+            },
+            {
+                "variant_id": "COL58",
+                "color": "DARK GREEN",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479617/item/usgoods_58_479617_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E479405-000",
+        "brand": "UNIQLO",
+        "name": "Warm Stretch Pants",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 19.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E479405-000/00",
+        "rating_avg": 4.4,
+        "rating_count": 49,
+        "variants": [
+            {
+                "variant_id": "COL30",
+                "color": "NATURAL",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479405/item/usgoods_30_479405_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E483305-000",
+        "brand": "UNIQLO",
+        "name": "Linen Cotton Tapered Pants",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E483305-000/00",
+        "rating_avg": 3.5,
+        "rating_count": 2,
+        "variants": [
+            {
+                "variant_id": "COL01",
+                "color": "OFF WHITE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483305/item/usgoods_01_483305_3x4.jpg"
+            },
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483305/item/usgoods_09_483305_3x4.jpg"
+            },
+            {
+                "variant_id": "COL32",
+                "color": "BEIGE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483305/item/usgoods_32_483305_3x4.jpg"
+            },
+            {
+                "variant_id": "COL57",
+                "color": "OLIVE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483305/item/usgoods_57_483305_3x4.jpg"
+            },
+            {
+                "variant_id": "COL68",
+                "color": "BLUE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483305/item/usgoods_68_483305_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E483306-000",
+        "brand": "UNIQLO",
+        "name": "Linen Cotton Tapered Pants | Striped",
+        "category": "bottoms",
+        "gender": "WOMEN",
+        "price": 49.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E483306-000/00",
+        "rating_avg": 0,
+        "rating_count": 0,
+        "variants": [
+            {
+                "variant_id": "COL00",
+                "color": "WHITE",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483306/item/usgoods_00_483306_3x4.jpg"
+            },
+            {
+                "variant_id": "COL69",
+                "color": "NAVY",
+                "sizes": [],
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483306/item/usgoods_69_483306_3x4.jpg"
+            }
+        ]
+    }
+]
