@@ -40,7 +40,7 @@ class DownloadImages:
         print("\nWriting image data to CSV file...")
         with open(output_path, 'w', newline='', encoding='utf-8') as csvfile:
             csvwriter = csv.writer(csvfile)
-            csvwriter.writerow(['image_id', 'product_id', 'variant_id', 'category', 'price', 'image_url', 'brand', 'product_url', 'currency'])
+            csvwriter.writerow(['image_id', 'product_id', 'variant_id', 'category', 'price', 'currency', 'brand', 'product_url', 'image_url'])
             csvwriter.writerows(self.images)
 
         print(f"\nSaved {len(self.images)} rows to {output_path}")
@@ -105,4 +105,4 @@ if __name__ == '__main__':
         brand = os.path.basename(brand_path)
         downloader = DownloadImages(brand)
         downloader.save_image_data()
-        downloader.download_images()
+        # downloader.download_images()
