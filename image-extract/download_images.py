@@ -26,10 +26,13 @@ class DownloadImages:
                     category = product.get("category")
                     product_url = product.get("product_url")
                     currency = product.get("currency")
+                    gender = product.get("gender")
+                    rating = product.get("rating_avg")
+                    rating_count = product.get("rating_count")
                     for variant in product.get("variants", []):
                         image_url = variant.get("image")
                         variant_id = variant.get("variant_id")
-                        product_info = (image_id, product_id, variant_id, category, price, currency, image_url, product_url, self.brand)
+                        product_info = (image_id, product_id, variant_id, gender, category, price, currency, image_url, product_url, self.brand, rating, rating_count)
                         self.images.append(product_info)
                         image_id += 1
         
@@ -40,7 +43,7 @@ class DownloadImages:
         print("\nWriting image data to CSV file...")
         with open(output_path, 'w', newline='', encoding='utf-8') as csvfile:
             csvwriter = csv.writer(csvfile)
-            csvwriter.writerow(['image_id', 'product_id', 'variant_id', 'category', 'price', 'currency', 'image_url', 'product_url', 'brand'])
+            csvwriter.writerow(['image_id', 'product_id', 'variant_id', 'gender', 'category', 'price', 'currency', 'image_url', 'product_url', 'brand', 'rating', 'rating_count'])
             csvwriter.writerows(self.images)
 
         print(f"\nSaved {len(self.images)} rows to {output_path}")
@@ -49,7 +52,7 @@ class DownloadImages:
         print("\nStarting image downloads...")
         failures = []
         for image in self.images:
-            image_id, product_id, variant_id, category, price, currency, image_url, product_url, brand = image
+            image_id, product_id, variant_id, gender, category, price, currency, image_url, product_url, brand, rating, rating_count = image
             image_extension = os.path.splitext(image_url)[1] or '.jpg'  # Default to .jpg if no extension found
             image_filename = f"{image_id}_{product_id}_{variant_id}{image_extension}"
             os.makedirs(f'data/images/{brand}/product-images', exist_ok=True)
