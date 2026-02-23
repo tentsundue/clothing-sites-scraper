@@ -12,6 +12,8 @@ class DownloadImages:
         self.brand = brand
         self.images = []
         self.variants_count = {"tops": 0, "bottoms": 0, "outerwear": 0, "innerwear": 0}
+        self.failures = []
+
 
     def save_image_data(self):
         input_files = glob.glob(f'data/products/{self.brand}/*.json')
@@ -41,6 +43,7 @@ class DownloadImages:
         os.makedirs(f'data/images/{self.brand}', exist_ok=True)
         self._write_to_csv(f'data/images/{self.brand}/image_data.csv')
 
+
     def _write_to_csv(self, output_path):
         print("\nWriting image data to CSV file...")
         with open(output_path, 'w', newline='', encoding='utf-8') as csvfile:
@@ -50,9 +53,9 @@ class DownloadImages:
 
         print(f"\nSaved {len(self.images)} rows to {output_path}")
 
+
     def download_images(self):
         print("\nStarting image downloads...")
-        failures = []
         for image in self.images:
             image_id, product_id, variant_id, gender, category, price, currency, image_url, product_url, brand, rating, rating_count = image
             image_extension = os.path.splitext(image_url)[1] or '.jpg'  # Default to .jpg if no extension found
@@ -65,10 +68,11 @@ class DownloadImages:
                 continue
 
             try:
+                print(f"Downloading image {image_id}: {image_url}")
                 response = requests.get(image_url, stream=True, timeout=10)
 
                 if response.status_code != 200:
-                    failures.append((image_url, response.status_code))
+                    self.failures.append((image_url, response.status_code))
                     continue
                 
                 with open(image_path, 'wb') as img_file:
@@ -87,21 +91,17 @@ class DownloadImages:
                 except Exception as verify_error:
                     print(f"Invalid image removed: {image_filename} -> {verify_error}")
                     os.remove(image_path)
-                    failures.append((image_url, "Invalid image"))
+                    self.failures.append((image_url, "Invalid image"))
 
-                print(f"== Downloaded image: {image_filename} ==")
+                print(f"== Downloaded image: {image_filename} ==\n")
 
                 time.sleep(random.uniform(0.5, 1.5)) # Don't overwhelm the server with requests and get locked out
 
             except Exception as e:
-                failures.append((image_url, str(e)))
+                self.failures.append((image_url, str(e)))
 
         print("\nImage downloads completed.")
 
-        if failures:
-            print(f"\nFailed to download {len(failures)} images.")
-            for failure in failures:
-                print(f"Failed URL: {failure[0]}, With Failure: {failure[1]}")
 
     def check_variant_counts(self):
         with open(f'data/images/{self.brand}/sanity_check.txt', 'w', encoding='utf-8') as f:
@@ -115,6 +115,15 @@ class DownloadImages:
                 unique_products.add(product_id)
 
             f.write("-----------------------------------------\n")
+            
+            f.write("Failed Links:\n")
+            if self.failures:
+                f.write(f"\nFailed to download {len(self.failures)} images.")
+            for failure in self.failures:
+                f.write(f"Failed URL: {failure[0]}, With Failure: {failure[1]}\n")
+
+            f.write("-----------------------------------------\n")
+            
             f.write(f"Total Unique Products: {len(unique_products)}\n")
             f.write(f"Total Variants across all categories: {sum(self.variants_count.values())}\n")
             f.write(f"Total Images to Download: {len(self.images)}\n")
@@ -126,5 +135,5 @@ if __name__ == '__main__':
         brand = os.path.basename(brand_path)
         downloader = DownloadImages(brand)
         downloader.save_image_data()
-        # downloader.download_images()
+        downloader.download_images()
         downloader.check_variant_counts()
