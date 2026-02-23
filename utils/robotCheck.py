@@ -56,6 +56,3 @@ class RobotCheck:
     
     def get_parsed_url(self):
         return self.parsed_url
-
-r = RobotCheck("https://www.uniqlo.com")
-print(r.get_domain_url())

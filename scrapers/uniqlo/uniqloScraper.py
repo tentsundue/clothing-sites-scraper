@@ -1,14 +1,54 @@
 import json
 import os
 import requests
+import time, random
+from collections import defaultdict
 from bs4 import BeautifulSoup, Comment
 from collections import defaultdict
 from utils.robotCheck import RobotCheck
 
 
 BRAND = "UNIQLO"
-URLS = {"tops": ["https://www.uniqlo.com/us/en/men/tops"],
-        "bottoms": ["https://www.uniqlo.com/us/en/women/bottoms"]
+URLS = {"tops": [
+                    "https://www.uniqlo.com/us/en/women/tops/",
+                    "https://www.uniqlo.com/us/en/men/tops/",
+
+                    "https://www.uniqlo.com/us/en/men/airism/tops",
+                    "https://www.uniqlo.com/us/en/women/airism/tops",
+                    
+                    "https://www.uniqlo.com/us/en/women/shirts-and-blouses",
+                    "https://www.uniqlo.com/us/en/men/shirts-and-polos",
+
+                ],
+
+        "bottoms": [
+                        "https://www.uniqlo.com/us/en/women/bottoms",
+                        "https://www.uniqlo.com/us/en/women/airism/bottoms",
+
+                        "https://www.uniqlo.com/us/en/men/airism/bottoms",
+                        "https://www.uniqlo.com/us/en/men/bottoms",
+                ],
+
+        "outerwear": [
+                        "https://www.uniqlo.com/us/en/men/sweaters", 
+                        "https://www.uniqlo.com/us/en/women/sweaters",
+
+                        "https://www.uniqlo.com/us/en/men/tops/sweatshirts-and-hoodies",
+                        "https://www.uniqlo.com/us/en/women/tops/sweatshirts-and-hoodies",
+
+                        "https://www.uniqlo.com/us/en/men/outerwear-and-blazers",
+                        "https://www.uniqlo.com/us/en/women/outerwear-and-blazers",
+
+                        "https://www.uniqlo.com/us/en/women/dresses-and-skirts",
+
+                        "https://www.uniqlo.com/us/en/women/outerwear-and-blazers/pufftech",
+                        "https://www.uniqlo.com/us/en/men/outerwear-and-blazers/pufftech",
+                ],
+
+        "innerwear": [
+                        "https://www.uniqlo.com/us/en/men/innerwear",
+                        "https://www.uniqlo.com/us/en/women/innerwear",
+                ]
        }
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
 HEADERS = {
@@ -67,28 +107,27 @@ def scraper(urls: defaultdict(list)): # type: ignore
         print("NOW SCRAPING CATEGORY:", category)
         print("=" * 50)
 
+        all_products = []
+        seen_ids = set()
+
         for url in url_list:
             response = requests.get(url, headers=HEADERS)
             response.raise_for_status()
 
-            soup = BeautifulSoup(response.text, "html.parser")
-
-            print(f"\nRETRIEVED SOUP OBJECT FOR URL: {url}")
-     
+            soup = BeautifulSoup(response.text, "html.parser")     
 
             # removes all comment from the html file
             for comment in soup.find_all(string = lambda string: isinstance(string, Comment)):
                 comment.extract()
             
             script = soup.find(
-                "script",
-                string=lambda t: t and "__PRELOADED_STATE__" in t
-            )
+                            "script",
+                            string=lambda t: t and "__PRELOADED_STATE__" in t
+                    )
             if not script:
                 raise RuntimeError("PRELOADED_STATE script not found")
             
             raw = script.string
-
             start = raw.find("window.__PRELOADED_STATE__")
             start = raw.find("=", start) + 1
             end = raw.rfind("}")
@@ -98,34 +137,43 @@ def scraper(urls: defaultdict(list)): # type: ignore
             data = json.loads(json_text)
             products_raw = data["entity"]["searchEntity"]
 
-            parse_products(products_raw, category)
+            parsed = parse_products(products_raw, category)
+            # remove duplicate products from men/women URLs etc.
+            for p in parsed:
+                if p["id"] not in seen_ids:
+                    seen_ids.add(p["id"])
+                    all_products.append(p)
+            
+            time.sleep(random.uniform(1.0, 2.0)) # be nice to the server and avoid making requests too quickly
+        write_to_json(all_products, category)
 
 
 '''
 Helper Function to parse raw product data into structured format (SEE README for structure) and save to JSON.
 USED IN: scraper()
 '''
-def parse_products(products_raw, category):
+def parse_products(products_raw: dict, category: str) -> list:
         products_parsed = []
 
         for productContainer in products_raw.values():
             product_info = productContainer["product"]
-            product_base = {}
 
             product_id = product_info['productId']
             product_priceGroup = product_info['priceGroup']
             product_main_images = product_info['images']['main']
 
-            product_base["id"] = f"uniqlo_{product_id}"
-            product_base["brand"] = BRAND
-            product_base["name"] = product_info["name"]
-            product_base["category"] = category
-            product_base["gender"] = product_info["genderCategory"]
-            product_base["price"] = product_info["prices"]["base"]["value"]
-            product_base["currency"] = product_info["prices"]["base"]["currency"]["code"]
-            product_base["product_url"] = f"https://www.uniqlo.com/us/en/products/{product_id}/{product_priceGroup}"
-            product_base["rating_avg"] = product_info["rating"]["average"]
-            product_base["rating_count"] = product_info["rating"]["count"]
+            product_base = {
+                "id": f"uniqlo_{product_id}",
+                "brand": BRAND,
+                "name": product_info["name"],
+                "category": category,
+                "gender": product_info["genderCategory"],
+                "price": product_info["prices"]["base"]["value"],
+                "currency": product_info["prices"]["base"]["currency"]["code"],
+                "product_url": f"https://www.uniqlo.com/us/en/products/{product_id}/{product_priceGroup}",
+                "rating_avg": product_info["rating"]["average"],
+                "rating_count": product_info["rating"]["count"],
+            }
 
             variants = []
             for color in product_info.get("colors", []):
@@ -141,7 +189,7 @@ def parse_products(products_raw, category):
             product_base["variants"] = variants
             products_parsed.append(product_base)
         
-        write_to_json(products_parsed, category)
+        return products_parsed
 
 
 '''
