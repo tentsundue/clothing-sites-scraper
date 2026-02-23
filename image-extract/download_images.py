@@ -104,13 +104,18 @@ class DownloadImages:
                 print(f"Failed URL: {failure[0]}, With Failure: {failure[1]}")
 
     def check_variant_counts(self):
-        with open(f'data/images/{self.brand}/sanity_check.csv', 'w', encoding='utf-8') as f:
+        with open(f'data/images/{self.brand}/sanity_check.txt', 'w', encoding='utf-8') as f:
             f.write("Category, Variant Count\n")
             for category, count in self.variants_count.items():
                 f.write(f"{category}, {count}\n")
+            
+            unique_products = set()
+            for image in self.images:
+                product_id = image[1]
+                unique_products.add(product_id)
 
             f.write("-----------------------------------------\n")
-            
+            f.write(f"Total Unique Products: {len(unique_products)}\n")
             f.write(f"Total Variants across all categories: {sum(self.variants_count.values())}\n")
             f.write(f"Total Images to Download: {len(self.images)}\n")
         
@@ -121,5 +126,5 @@ if __name__ == '__main__':
         brand = os.path.basename(brand_path)
         downloader = DownloadImages(brand)
         downloader.save_image_data()
-        downloader.download_images()
+        # downloader.download_images()
         downloader.check_variant_counts()

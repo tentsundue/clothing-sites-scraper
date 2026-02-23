@@ -4,5 +4,6 @@ bottoms, 243
 outerwear, 536
 innerwear, 247
 -----------------------------------------
+Total Unique Products: 431
 Total Variants across all categories: 1565
 Total Images to Download: 1565
