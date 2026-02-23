@@ -2,7 +2,7 @@ import os
 import json
 import glob
 import csv
-import time
+import time, random
 from PIL import Image
 
 import requests
@@ -11,6 +11,7 @@ class DownloadImages:
     def __init__(self, brand):
         self.brand = brand
         self.images = []
+        self.variants_count = {"tops": 0, "bottoms": 0, "outerwear": 0, "innerwear": 0}
 
     def save_image_data(self):
         input_files = glob.glob(f'data/products/{self.brand}/*.json')
@@ -34,6 +35,7 @@ class DownloadImages:
                         variant_id = variant.get("variant_id")
                         product_info = (image_id, product_id, variant_id, gender, category, price, currency, image_url, product_url, self.brand, rating, rating_count)
                         self.images.append(product_info)
+                        self.variants_count[category] += 1
                         image_id += 1
         
         os.makedirs(f'data/images/{self.brand}', exist_ok=True)
@@ -89,7 +91,7 @@ class DownloadImages:
 
                 print(f"== Downloaded image: {image_filename} ==")
 
-                time.sleep(0.5) # Don't overwhelm the server with requests and get locked out
+                time.sleep(random.uniform(0.5, 1.5)) # Don't overwhelm the server with requests and get locked out
 
             except Exception as e:
                 failures.append((image_url, str(e)))
@@ -100,6 +102,17 @@ class DownloadImages:
             print(f"\nFailed to download {len(failures)} images.")
             for failure in failures:
                 print(f"Failed URL: {failure[0]}, With Failure: {failure[1]}")
+
+    def check_variant_counts(self):
+        with open(f'data/images/{self.brand}/sanity_check.csv', 'w', encoding='utf-8') as f:
+            f.write("Category, Variant Count\n")
+            for category, count in self.variants_count.items():
+                f.write(f"{category}, {count}\n")
+
+            f.write("-----------------------------------------\n")
+            
+            f.write(f"Total Variants across all categories: {sum(self.variants_count.values())}\n")
+            f.write(f"Total Images to Download: {len(self.images)}\n")
         
 if __name__ == '__main__':
     product_brands = glob.glob('data/products/*')
@@ -108,4 +121,5 @@ if __name__ == '__main__':
         brand = os.path.basename(brand_path)
         downloader = DownloadImages(brand)
         downloader.save_image_data()
-        # downloader.download_images()
+        downloader.download_images()
+        downloader.check_variant_counts()
