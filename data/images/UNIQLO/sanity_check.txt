@@ -1,11 +1,11 @@
 Category, Variant Count
-tops, 539
-bottoms, 243
-outerwear, 536
+tops, 541
+bottoms, 242
+outerwear, 538
 innerwear, 247
 -----------------------------------------
 Failed Links:
 -----------------------------------------
-Total Unique Products: 431
-Total Variants across all categories: 1565
-Total Images to Download: 1565
+Total Unique Products: 433
+Total Variants across all categories: 1568
+Total Images to Download: 1568

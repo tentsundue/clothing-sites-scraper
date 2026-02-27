@@ -144,7 +144,7 @@ def scraper(urls: defaultdict(list)): # type: ignore
                     seen_ids.add(p["id"])
                     all_products.append(p)
             
-            time.sleep(random.uniform(1.0, 2.0)) # be nice to the server and avoid making requests too quickly
+            time.sleep(random.uniform(0.5, 1)) # be nice to the server and avoid making requests too quickly
         write_to_json(all_products, category)
 
 
@@ -173,6 +173,7 @@ def parse_products(products_raw: dict, category: str) -> list:
                 "product_url": f"https://www.uniqlo.com/us/en/products/{product_id}/{product_priceGroup}",
                 "rating_avg": product_info["rating"]["average"],
                 "rating_count": product_info["rating"]["count"],
+                "sizes": [size["name"] for size in product_info.get("sizes", [])],
             }
 
             variants = []
@@ -181,7 +182,6 @@ def parse_products(products_raw: dict, category: str) -> list:
                 variant = {
                     "variant_id": color["code"],
                     "color": color["name"],
-                    "sizes": [size["name"] for size in color.get("sizes", [])],
                     "image": product_main_images[displayCode]["image"]
                 }
                 variants.append(variant)

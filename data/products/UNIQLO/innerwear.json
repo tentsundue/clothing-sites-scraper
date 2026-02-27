@@ -10,17 +10,23 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482557-000/00",
         "rating_avg": 5,
         "rating_count": 2,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482557/item/goods_09_482557_3x4.jpg"
             },
             {
                 "variant_id": "COL68",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482557/item/goods_68_482557_3x4.jpg"
             }
         ]
@@ -36,23 +42,27 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482556-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
         "variants": [
             {
                 "variant_id": "COL58",
                 "color": "DARK GREEN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482556/item/goods_58_482556_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482556/item/goods_09_482556_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482556/item/goods_69_482556_3x4.jpg"
             }
         ]
@@ -68,11 +78,18 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E484996-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL08",
                 "color": "DARK GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/484996/item/goods_08_484996_3x4.jpg"
             }
         ]
@@ -88,17 +105,23 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482558-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL08",
                 "color": "DARK GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482558/item/goods_08_482558_3x4.jpg"
             },
             {
                 "variant_id": "COL18",
                 "color": "WINE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482558/item/goods_18_482558_3x4.jpg"
             }
         ]
@@ -113,30 +136,34 @@
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E456710-000/00",
         "rating_avg": 4.3,
-        "rating_count": 253,
+        "rating_count": 255,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL08",
                 "color": "DARK GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456710/item/goods_08_456710_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456710/item/goods_09_456710_3x4.jpg"
             },
             {
                 "variant_id": "COL58",
                 "color": "DARK GREEN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456710/item/goods_58_456710_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456710/item/goods_69_456710_3x4.jpg"
             }
         ]
@@ -152,35 +179,38 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E454326-000/00",
         "rating_avg": 4.6,
         "rating_count": 83,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL05",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/454326/item/goods_05_454326_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/454326/item/goods_09_454326_3x4.jpg"
             },
             {
                 "variant_id": "COL38",
                 "color": "DARK BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/454326/item/goods_38_454326_3x4.jpg"
             },
             {
                 "variant_id": "COL66",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/454326/item/goods_66_454326_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/454326/item/goods_69_454326_3x4.jpg"
             }
         ]
@@ -191,16 +221,19 @@
         "name": "AIRism Boxer Briefs",
         "category": "innerwear",
         "gender": "MEN",
-        "price": 9.9,
+        "price": 5.9,
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E456675-000/00",
         "rating_avg": 4.7,
         "rating_count": 30,
+        "sizes": [
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL07",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456675/item/goods_07_456675_3x4.jpg"
             }
         ]
@@ -216,11 +249,18 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482538-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL06",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482538/item/goods_06_482538_3x4.jpg"
             }
         ]
@@ -236,23 +276,28 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E480997-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/480997/item/goods_09_480997_3x4.jpg"
             },
             {
                 "variant_id": "COL03",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/480997/item/goods_03_480997_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/480997/item/goods_69_480997_3x4.jpg"
             }
         ]
@@ -268,35 +313,38 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E464311-000/01",
         "rating_avg": 4.6,
         "rating_count": 180,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL38",
                 "color": "DARK BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/464311/item/goods_38_464311_3x4.jpg"
             },
             {
                 "variant_id": "COL00",
                 "color": "WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/464311/item/goods_00_464311_3x4.jpg"
             },
             {
                 "variant_id": "COL07",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/464311/item/goods_07_464311_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/464311/item/goods_09_464311_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/464311/item/goods_69_464311_3x4.jpg"
             }
         ]
@@ -312,17 +360,23 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E479497-000/00",
         "rating_avg": 5,
         "rating_count": 3,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL04",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479497/item/goods_04_479497_3x4.jpg"
             },
             {
                 "variant_id": "COL68",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479497/item/goods_68_479497_3x4.jpg"
             }
         ]
@@ -338,11 +392,17 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482596-000/00",
         "rating_avg": 5,
         "rating_count": 2,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL16",
                 "color": "RED",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482596/item/goods_16_482596_3x4.jpg"
             }
         ]
@@ -358,17 +418,23 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482600-000/00",
         "rating_avg": 5,
         "rating_count": 1,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL68",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482600/item/goods_68_482600_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482600/item/goods_09_482600_3x4.jpg"
             }
         ]
@@ -384,17 +450,23 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482598-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL67",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482598/item/goods_67_482598_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482598/item/goods_09_482598_3x4.jpg"
             }
         ]
@@ -410,23 +482,28 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E476320-000/00",
         "rating_avg": 5,
         "rating_count": 16,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL18",
                 "color": "WINE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/476320/item/goods_18_476320_3x4.jpg"
             },
             {
                 "variant_id": "COL08",
                 "color": "DARK GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/476320/item/goods_08_476320_3x4.jpg"
             },
             {
                 "variant_id": "COL67",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/476320/item/goods_67_476320_3x4.jpg"
             }
         ]
@@ -442,38 +519,24 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E487650-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL30",
                 "color": "NATURAL",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/487650/item/goods_30_487650_3x4.jpg"
             },
             {
                 "variant_id": "COL54",
                 "color": "GREEN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/487650/item/goods_54_487650_3x4.jpg"
-            }
-        ]
-    },
-    {
-        "id": "uniqlo_E466739-000",
-        "brand": "UNIQLO",
-        "name": "Cotton Waist Striped Boxer Briefs",
-        "category": "innerwear",
-        "gender": "MEN",
-        "price": 5.9,
-        "currency": "USD",
-        "product_url": "https://www.uniqlo.com/us/en/products/E466739-000/00",
-        "rating_avg": 4.5,
-        "rating_count": 28,
-        "variants": [
-            {
-                "variant_id": "COL09",
-                "color": "BLACK",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/466739/item/goods_09_466739_3x4.jpg"
             }
         ]
     },
@@ -488,11 +551,14 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E483746-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "M",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL00",
                 "color": "WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/483746/item/goods_00_483746_3x4.jpg"
             }
         ]
@@ -508,11 +574,14 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E479035-000/00",
         "rating_avg": 4.7,
         "rating_count": 10,
+        "sizes": [
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL00",
                 "color": "WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479035/item/goods_00_479035_3x4.jpg"
             }
         ]
@@ -528,11 +597,13 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E469989-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL00",
                 "color": "WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/469989/item/goods_00_469989_3x4.jpg"
             }
         ]
@@ -547,24 +618,29 @@
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E439661-000/00",
         "rating_avg": 4.2,
-        "rating_count": 57,
+        "rating_count": 53,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL07",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/439661/item/goods_07_439661_3x4.jpg"
             },
             {
                 "variant_id": "COL61",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/439661/item/goods_61_439661_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/439661/item/goods_69_439661_3x4.jpg"
             }
         ]
@@ -580,23 +656,28 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E479487-000/00",
         "rating_avg": 4.4,
         "rating_count": 11,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL56",
                 "color": "OLIVE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479487/item/goods_56_479487_3x4.jpg"
             },
             {
                 "variant_id": "COL16",
                 "color": "RED",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479487/item/goods_16_479487_3x4.jpg"
             },
             {
                 "variant_id": "COL68",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479487/item/goods_68_479487_3x4.jpg"
             }
         ]
@@ -612,17 +693,23 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E461488-000/00",
         "rating_avg": 4.6,
         "rating_count": 31,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL64",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461488/item/goods_64_461488_3x4.jpg"
             },
             {
                 "variant_id": "COL68",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461488/item/goods_68_461488_3x4.jpg"
             }
         ]
@@ -638,17 +725,23 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E479488-000/00",
         "rating_avg": 4.3,
         "rating_count": 3,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL65",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479488/item/goods_65_479488_3x4.jpg"
             },
             {
                 "variant_id": "COL02",
                 "color": "LIGHT GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479488/item/goods_02_479488_3x4.jpg"
             }
         ]
@@ -664,35 +757,38 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E479502-000/00",
         "rating_avg": 4.8,
         "rating_count": 16,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL03",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479502/item/goods_03_479502_3x4.jpg"
             },
             {
                 "variant_id": "COL00",
                 "color": "WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479502/item/goods_00_479502_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479502/item/goods_09_479502_3x4.jpg"
             },
             {
                 "variant_id": "COL55",
                 "color": "GREEN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479502/item/goods_55_479502_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479502/item/goods_69_479502_3x4.jpg"
             }
         ]
@@ -708,11 +804,18 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482601-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL16",
                 "color": "RED",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482601/item/goods_16_482601_3x4.jpg"
             }
         ]
@@ -728,11 +831,13 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E479036-000/00",
         "rating_avg": 5,
         "rating_count": 3,
+        "sizes": [
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL00",
                 "color": "WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/479036/item/goods_00_479036_3x4.jpg"
             }
         ]
@@ -748,11 +853,13 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E469990-000/00",
         "rating_avg": 4.5,
         "rating_count": 12,
+        "sizes": [
+            "XXL"
+        ],
         "variants": [
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/469990/item/goods_09_469990_3x4.jpg"
             }
         ]
@@ -768,17 +875,23 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482602-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482602/item/goods_09_482602_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482602/item/goods_69_482602_3x4.jpg"
             }
         ]
@@ -794,17 +907,21 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E483996-000/00",
         "rating_avg": 3,
         "rating_count": 2,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL63",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/483996/item/goods_63_483996_3x4.jpg"
             },
             {
                 "variant_id": "COL67",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/483996/item/goods_67_483996_3x4.jpg"
             }
         ]
@@ -820,17 +937,23 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482593-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL58",
                 "color": "DARK GREEN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482593/item/goods_58_482593_3x4.jpg"
             },
             {
                 "variant_id": "COL67",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482593/item/goods_67_482593_3x4.jpg"
             }
         ]
@@ -846,17 +969,23 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482591-000/00",
         "rating_avg": 5,
         "rating_count": 2,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL15",
                 "color": "RED",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482591/item/goods_15_482591_3x4.jpg"
             },
             {
                 "variant_id": "COL54",
                 "color": "GREEN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482591/item/goods_54_482591_3x4.jpg"
             }
         ]
@@ -872,17 +1001,23 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482589-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL61",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482589/item/goods_61_482589_3x4.jpg"
             },
             {
                 "variant_id": "COL11",
                 "color": "PINK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482589/item/goods_11_482589_3x4.jpg"
             }
         ]
@@ -893,310 +1028,263 @@
         "name": "Colorful 50 Socks",
         "category": "innerwear",
         "gender": "MEN",
-        "price": 3.9,
+        "price": 4.9,
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E482605-000/00",
         "rating_avg": 4.6,
-        "rating_count": 13,
+        "rating_count": 15,
+        "sizes": [
+            "US8-US11"
+        ],
         "variants": [
             {
                 "variant_id": "COL80",
                 "color": "80",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_80_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL00",
                 "color": "WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_00_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL02",
                 "color": "LIGHT GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_02_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL03",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_03_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL04",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_04_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL05",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_05_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL06",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_06_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL07",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_07_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL08",
                 "color": "DARK GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_08_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_09_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL10",
                 "color": "PINK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_10_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL11",
                 "color": "PINK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_11_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL15",
                 "color": "RED",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_15_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL16",
                 "color": "RED",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_16_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL18",
                 "color": "WINE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_18_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL26",
                 "color": "ORANGE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_26_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL28",
                 "color": "DARK ORANGE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_28_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL30",
                 "color": "NATURAL",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_30_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL31",
                 "color": "BEIGE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_31_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL32",
                 "color": "BEIGE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_32_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL33",
                 "color": "KHAKI",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_33_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL34",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_34_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL36",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_36_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL37",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_37_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL38",
                 "color": "DARK BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_38_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL41",
                 "color": "YELLOW",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_41_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL47",
                 "color": "YELLOW",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_47_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL50",
                 "color": "LIGHT GREEN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_50_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL52",
                 "color": "GREEN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_52_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL54",
                 "color": "GREEN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_54_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL55",
                 "color": "GREEN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_55_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL60",
                 "color": "LIGHT BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_60_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL62",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_62_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL64",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_64_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL65",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_65_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL68",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_68_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_69_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL70",
                 "color": "LIGHT PURPLE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_70_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL71",
                 "color": "PURPLE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_71_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL76",
                 "color": "PURPLE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_76_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL81",
                 "color": "81",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_81_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL82",
                 "color": "82",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_82_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL83",
                 "color": "83",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_83_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL84",
                 "color": "84",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_84_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL87",
                 "color": "87",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_87_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL88",
                 "color": "88",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_88_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL90",
                 "color": "90",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_90_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL91",
                 "color": "91",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_91_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL93",
                 "color": "93",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_93_482605_3x4.jpg"
             },
             {
                 "variant_id": "COL95",
                 "color": "95",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482605/item/goods_95_482605_3x4.jpg"
             }
         ]
@@ -1207,59 +1295,143 @@
         "name": "Colorful 50 Socks",
         "category": "innerwear",
         "gender": "MEN",
-        "price": 3.9,
+        "price": 4.9,
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E461025-000/00",
         "rating_avg": 4.7,
-        "rating_count": 485,
+        "rating_count": 486,
+        "sizes": [
+            "US8-US11"
+        ],
         "variants": [
+            {
+                "variant_id": "COL30",
+                "color": "NATURAL",
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461025/item/goods_30_461025_3x4.jpg"
+            },
             {
                 "variant_id": "COL36",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461025/item/goods_36_461025_3x4.jpg"
             },
             {
                 "variant_id": "COL51",
                 "color": "GREEN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461025/item/goods_51_461025_3x4.jpg"
+            },
+            {
+                "variant_id": "COL64",
+                "color": "BLUE",
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461025/item/goods_64_461025_3x4.jpg"
             },
             {
                 "variant_id": "COL68",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461025/item/goods_68_461025_3x4.jpg"
             },
             {
                 "variant_id": "COL80",
                 "color": "80",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461025/item/goods_80_461025_3x4.jpg"
             },
             {
                 "variant_id": "COL81",
                 "color": "81",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461025/item/goods_81_461025_3x4.jpg"
             },
             {
                 "variant_id": "COL84",
                 "color": "84",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461025/item/goods_84_461025_3x4.jpg"
             },
             {
                 "variant_id": "COL87",
                 "color": "87",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461025/item/goods_87_461025_3x4.jpg"
             },
             {
                 "variant_id": "COL91",
                 "color": "91",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461025/item/goods_91_461025_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E471951-000",
+        "brand": "UNIQLO",
+        "name": "Pile Socks",
+        "category": "innerwear",
+        "gender": "MEN",
+        "price": 5.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E471951-000/00",
+        "rating_avg": 4.8,
+        "rating_count": 62,
+        "sizes": [
+            "US8-US11"
+        ],
+        "variants": [
+            {
+                "variant_id": "COL01",
+                "color": "OFF WHITE",
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/471951/item/goods_01_471951_3x4.jpg"
+            },
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/471951/item/goods_09_471951_3x4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "uniqlo_E457288-000",
+        "brand": "UNIQLO",
+        "name": "SUPIMA\u00c2\u00ae Cotton Blend Wide Ribbed Socks",
+        "category": "innerwear",
+        "gender": "MEN",
+        "price": 5.9,
+        "currency": "USD",
+        "product_url": "https://www.uniqlo.com/us/en/products/E457288-000/00",
+        "rating_avg": 4.5,
+        "rating_count": 34,
+        "sizes": [
+            "US8-US11"
+        ],
+        "variants": [
+            {
+                "variant_id": "COL51",
+                "color": "GREEN",
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457288/item/goods_51_457288_3x4.jpg"
+            },
+            {
+                "variant_id": "COL00",
+                "color": "WHITE",
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457288/item/goods_00_457288_3x4.jpg"
+            },
+            {
+                "variant_id": "COL03",
+                "color": "GRAY",
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457288/item/goods_03_457288_3x4.jpg"
+            },
+            {
+                "variant_id": "COL08",
+                "color": "DARK GRAY",
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457288/item/goods_08_457288_3x4.jpg"
+            },
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457288/item/goods_09_457288_3x4.jpg"
+            },
+            {
+                "variant_id": "COL60",
+                "color": "LIGHT BLUE",
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457288/item/goods_60_457288_3x4.jpg"
+            },
+            {
+                "variant_id": "COL91",
+                "color": "91",
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457288/item/goods_91_457288_3x4.jpg"
             }
         ]
     },
@@ -1272,37 +1444,46 @@
         "price": 29.9,
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E482661-000/00",
-        "rating_avg": 3.9,
-        "rating_count": 16,
+        "rating_avg": 3.8,
+        "rating_count": 17,
+        "sizes": [
+            "30/32 AA A",
+            "30/32 B C",
+            "30/32 D DD",
+            "30/32 DDD G",
+            "34/36 AA A",
+            "34/36 B C",
+            "34/36 D DD",
+            "34/36 DDD G",
+            "38/40 AA A",
+            "38/40 B C",
+            "38/40 D DD",
+            "38/40 DDD G"
+        ],
         "variants": [
             {
                 "variant_id": "COL31",
                 "color": "BEIGE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482661/item/usgoods_31_482661_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482661/item/goods_09_482661_3x4.jpg"
             },
             {
                 "variant_id": "COL11",
                 "color": "PINK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482661/item/usgoods_11_482661_3x4.jpg"
             },
             {
                 "variant_id": "COL34",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482661/item/usgoods_34_482661_3x4.jpg"
             },
             {
                 "variant_id": "COL35",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482661/item/usgoods_35_482661_3x4.jpg"
             }
         ]
@@ -1313,35 +1494,25 @@
         "name": "Wireless Bra | 3D Hold",
         "category": "innerwear",
         "gender": "WOMEN",
-        "price": 29.9,
+        "price": 14.9,
         "currency": "USD",
-        "product_url": "https://www.uniqlo.com/us/en/products/E477980-000/00",
+        "product_url": "https://www.uniqlo.com/us/en/products/E477980-000/01",
         "rating_avg": 4.4,
         "rating_count": 154,
+        "sizes": [
+            "30/32 DDD G",
+            "34/36 B C",
+            "34/36 D DD",
+            "34/36 DDD G",
+            "38/40 B C",
+            "38/40 D DD",
+            "38/40 DDD G"
+        ],
         "variants": [
             {
                 "variant_id": "COL12",
                 "color": "PINK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477980/item/usgoods_12_477980_3x4.jpg"
-            },
-            {
-                "variant_id": "COL09",
-                "color": "BLACK",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477980/item/usgoods_09_477980_3x4.jpg"
-            },
-            {
-                "variant_id": "COL31",
-                "color": "BEIGE",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477980/item/usgoods_31_477980_3x4.jpg"
-            },
-            {
-                "variant_id": "COL34",
-                "color": "BROWN",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477980/item/usgoods_34_477980_3x4.jpg"
             }
         ]
     },
@@ -1356,17 +1527,21 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E464333-000/00",
         "rating_avg": 4.6,
         "rating_count": 251,
+        "sizes": [
+            "30/32 DDD G",
+            "34/36 DDD G",
+            "38/40 D DD",
+            "38/40 DDD G"
+        ],
         "variants": [
             {
                 "variant_id": "COL31",
                 "color": "BEIGE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/464333/item/goods_31_464333_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/464333/item/goods_09_464333_3x4.jpg"
             }
         ]
@@ -1380,31 +1555,34 @@
         "price": 29.9,
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E482662-000/00",
-        "rating_avg": 3.5,
-        "rating_count": 4,
+        "rating_avg": 3.3,
+        "rating_count": 6,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL67",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482662/item/usgoods_67_482662_3x4.jpg"
             },
             {
                 "variant_id": "COL03",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482662/item/goods_03_482662_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482662/item/usgoods_09_482662_3x4.jpg"
             },
             {
                 "variant_id": "COL31",
                 "color": "BEIGE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482662/item/goods_31_482662_3x4.jpg"
             }
         ]
@@ -1419,12 +1597,14 @@
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E480658-000/00",
         "rating_avg": 4.6,
-        "rating_count": 98,
+        "rating_count": 100,
+        "sizes": [
+            "XS"
+        ],
         "variants": [
             {
                 "variant_id": "COL57",
                 "color": "OLIVE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/480658/item/usgoods_57_480658_3x4.jpg"
             }
         ]
@@ -1438,37 +1618,38 @@
         "price": 9.9,
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E479582-000/00",
-        "rating_avg": 3.1,
-        "rating_count": 40,
+        "rating_avg": 3.2,
+        "rating_count": 44,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
         "variants": [
             {
                 "variant_id": "COL30",
                 "color": "NATURAL",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479582/item/usgoods_30_479582_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479582/item/usgoods_09_479582_3x4.jpg"
             },
             {
                 "variant_id": "COL34",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479582/item/usgoods_34_479582_3x4.jpg"
             },
             {
                 "variant_id": "COL38",
                 "color": "DARK BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479582/item/usgoods_38_479582_3x4.jpg"
             },
             {
                 "variant_id": "COL63",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/479582/item/usgoods_63_479582_3x4.jpg"
             }
         ]
@@ -1479,34 +1660,37 @@
         "name": "Wireless Bra Ribbed Bandeau",
         "category": "innerwear",
         "gender": "WOMEN",
-        "price": 29.9,
+        "price": 19.9,
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E483031-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL00",
                 "color": "WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483031/item/usgoods_00_483031_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483031/item/usgoods_09_483031_3x4.jpg"
             },
             {
                 "variant_id": "COL37",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483031/item/usgoods_37_483031_3x4.jpg"
             },
             {
                 "variant_id": "COL58",
                 "color": "DARK GREEN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/483031/item/usgoods_58_483031_3x4.jpg"
             }
         ]
@@ -1520,31 +1704,34 @@
         "price": 29.9,
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E482664-000/00",
-        "rating_avg": 1,
-        "rating_count": 1,
+        "rating_avg": 3,
+        "rating_count": 2,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL08",
                 "color": "DARK GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482664/item/usgoods_08_482664_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482664/item/usgoods_09_482664_3x4.jpg"
             },
             {
                 "variant_id": "COL12",
                 "color": "PINK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482664/item/usgoods_12_482664_3x4.jpg"
             },
             {
                 "variant_id": "COL63",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482664/item/usgoods_63_482664_3x4.jpg"
             }
         ]
@@ -1560,17 +1747,22 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E484897-000/00",
         "rating_avg": 1,
         "rating_count": 1,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL39",
                 "color": "DARK BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484897/item/usgoods_39_484897_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484897/item/usgoods_69_484897_3x4.jpg"
             }
         ]
@@ -1586,35 +1778,39 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E473980-000/00",
         "rating_avg": 4.5,
         "rating_count": 151,
+        "sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
         "variants": [
             {
                 "variant_id": "COL39",
                 "color": "DARK BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473980/item/usgoods_39_473980_3x4.jpg"
             },
             {
                 "variant_id": "COL00",
                 "color": "WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473980/item/usgoods_00_473980_3x4.jpg"
             },
             {
                 "variant_id": "COL02",
                 "color": "LIGHT GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473980/item/usgoods_02_473980_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473980/item/usgoods_09_473980_3x4.jpg"
             },
             {
                 "variant_id": "COL63",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473980/item/usgoods_63_473980_3x4.jpg"
             }
         ]
@@ -1628,37 +1824,41 @@
         "price": 29.9,
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E473977-000/00",
-        "rating_avg": 4.6,
-        "rating_count": 98,
+        "rating_avg": 4.5,
+        "rating_count": 101,
+        "sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
         "variants": [
             {
                 "variant_id": "COL00",
                 "color": "WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473977/item/usgoods_00_473977_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473977/item/usgoods_09_473977_3x4.jpg"
             },
             {
                 "variant_id": "COL12",
                 "color": "PINK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473977/item/usgoods_12_473977_3x4.jpg"
             },
             {
                 "variant_id": "COL30",
                 "color": "NATURAL",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473977/item/usgoods_30_473977_3x4.jpg"
             },
             {
                 "variant_id": "COL34",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473977/item/usgoods_34_473977_3x4.jpg"
             }
         ]
@@ -1673,25 +1873,22 @@
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E473983-000/00",
         "rating_avg": 4.8,
-        "rating_count": 320,
+        "rating_count": 321,
+        "sizes": [
+            "XS",
+            "L",
+            "XXL"
+        ],
         "variants": [
-            {
-                "variant_id": "COL00",
-                "color": "WHITE",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473983/item/usgoods_00_473983_3x4.jpg"
-            },
-            {
-                "variant_id": "COL02",
-                "color": "LIGHT GRAY",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/473983/item/goods_02_473983_3x4.jpg"
-            },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473983/item/usgoods_09_473983_3x4.jpg"
+            },
+            {
+                "variant_id": "COL00",
+                "color": "WHITE",
+                "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/473983/item/usgoods_00_473983_3x4.jpg"
             }
         ]
     },
@@ -1705,30 +1902,34 @@
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E482838-000/00",
         "rating_avg": 5,
-        "rating_count": 4,
+        "rating_count": 6,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
         "variants": [
             {
                 "variant_id": "COL00",
                 "color": "WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482838/item/usgoods_00_482838_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482838/item/usgoods_09_482838_3x4.jpg"
             },
             {
                 "variant_id": "COL37",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482838/item/usgoods_37_482838_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482838/item/usgoods_69_482838_3x4.jpg"
             }
         ]
@@ -1743,36 +1944,39 @@
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E482195-000/00",
         "rating_avg": 4.7,
-        "rating_count": 11,
+        "rating_count": 13,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
         "variants": [
             {
                 "variant_id": "COL18",
                 "color": "WINE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482195/item/usgoods_18_482195_3x4.jpg"
             },
             {
                 "variant_id": "COL00",
                 "color": "WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482195/item/usgoods_00_482195_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482195/item/usgoods_09_482195_3x4.jpg"
             },
             {
                 "variant_id": "COL31",
                 "color": "BEIGE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482195/item/usgoods_31_482195_3x4.jpg"
             },
             {
                 "variant_id": "COL60",
                 "color": "LIGHT BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482195/item/usgoods_60_482195_3x4.jpg"
             }
         ]
@@ -1787,36 +1991,39 @@
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E482839-000/00",
         "rating_avg": 5,
-        "rating_count": 3,
+        "rating_count": 4,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
         "variants": [
             {
                 "variant_id": "COL00",
                 "color": "WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482839/item/usgoods_00_482839_3x4.jpg"
             },
             {
                 "variant_id": "COL02",
                 "color": "LIGHT GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482839/item/usgoods_02_482839_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482839/item/usgoods_09_482839_3x4.jpg"
             },
             {
                 "variant_id": "COL10",
                 "color": "PINK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482839/item/usgoods_10_482839_3x4.jpg"
             },
             {
                 "variant_id": "COL57",
                 "color": "OLIVE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482839/item/usgoods_57_482839_3x4.jpg"
             }
         ]
@@ -1832,23 +2039,28 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482199-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
         "variants": [
             {
                 "variant_id": "COL03",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482199/item/usgoods_03_482199_3x4.jpg"
             },
             {
                 "variant_id": "COL58",
                 "color": "DARK GREEN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482199/item/usgoods_58_482199_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482199/item/usgoods_69_482199_3x4.jpg"
             }
         ]
@@ -1864,17 +2076,23 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E484831-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
         "variants": [
             {
                 "variant_id": "COL36",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484831/item/usgoods_36_484831_3x4.jpg"
             },
             {
                 "variant_id": "COL00",
                 "color": "WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484831/item/usgoods_00_484831_3x4.jpg"
             }
         ]
@@ -1890,35 +2108,37 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482674-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482674/item/goods_09_482674_3x4.jpg"
             },
             {
                 "variant_id": "COL11",
                 "color": "PINK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482674/item/goods_11_482674_3x4.jpg"
             },
             {
                 "variant_id": "COL31",
                 "color": "BEIGE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482674/item/goods_31_482674_3x4.jpg"
             },
             {
                 "variant_id": "COL34",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482674/item/goods_34_482674_3x4.jpg"
             },
             {
                 "variant_id": "COL35",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482674/item/goods_35_482674_3x4.jpg"
             }
         ]
@@ -1934,47 +2154,57 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E481134-000/00",
         "rating_avg": 4.5,
         "rating_count": 21,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL03",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481134/item/goods_03_481134_3x4.jpg"
+            },
+            {
+                "variant_id": "COL09",
+                "color": "BLACK",
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481134/item/goods_09_481134_3x4.jpg"
             },
             {
                 "variant_id": "COL11",
                 "color": "PINK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481134/item/goods_11_481134_3x4.jpg"
+            },
+            {
+                "variant_id": "COL30",
+                "color": "NATURAL",
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481134/item/goods_30_481134_3x4.jpg"
+            },
+            {
+                "variant_id": "COL31",
+                "color": "BEIGE",
+                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481134/item/goods_31_481134_3x4.jpg"
             },
             {
                 "variant_id": "COL34",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481134/item/goods_34_481134_3x4.jpg"
             },
             {
                 "variant_id": "COL35",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481134/item/goods_35_481134_3x4.jpg"
-            },
-            {
-                "variant_id": "COL39",
-                "color": "DARK BROWN",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481134/item/goods_39_481134_3x4.jpg"
             },
             {
                 "variant_id": "COL63",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481134/item/goods_63_481134_3x4.jpg"
             },
             {
                 "variant_id": "COL67",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481134/item/goods_67_481134_3x4.jpg"
             }
         ]
@@ -1988,88 +2218,55 @@
         "price": 9.9,
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E481133-000/00",
-        "rating_avg": 3.7,
-        "rating_count": 33,
+        "rating_avg": 3.8,
+        "rating_count": 34,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL03",
                 "color": "GRAY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481133/item/goods_03_481133_3x4.jpg"
             },
             {
                 "variant_id": "COL11",
                 "color": "PINK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481133/item/goods_11_481133_3x4.jpg"
             },
             {
                 "variant_id": "COL30",
                 "color": "NATURAL",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481133/item/goods_30_481133_3x4.jpg"
             },
             {
                 "variant_id": "COL31",
                 "color": "BEIGE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481133/item/goods_31_481133_3x4.jpg"
             },
             {
                 "variant_id": "COL34",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481133/item/goods_34_481133_3x4.jpg"
             },
             {
                 "variant_id": "COL35",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481133/item/goods_35_481133_3x4.jpg"
             },
             {
                 "variant_id": "COL63",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481133/item/goods_63_481133_3x4.jpg"
             },
             {
                 "variant_id": "COL67",
                 "color": "BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/481133/item/goods_67_481133_3x4.jpg"
-            }
-        ]
-    },
-    {
-        "id": "uniqlo_E482673-000",
-        "brand": "UNIQLO",
-        "name": "AIRism Seamless Hiphuggers",
-        "category": "innerwear",
-        "gender": "WOMEN",
-        "price": 9.9,
-        "currency": "USD",
-        "product_url": "https://www.uniqlo.com/us/en/products/E482673-000/00",
-        "rating_avg": 3.5,
-        "rating_count": 2,
-        "variants": [
-            {
-                "variant_id": "COL30",
-                "color": "NATURAL",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482673/item/goods_30_482673_3x4.jpg"
-            },
-            {
-                "variant_id": "COL09",
-                "color": "BLACK",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482673/item/goods_09_482673_3x4.jpg"
-            },
-            {
-                "variant_id": "COL31",
-                "color": "BEIGE",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482673/item/goods_31_482673_3x4.jpg"
             }
         ]
     },
@@ -2084,17 +2281,21 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E473945-000/00",
         "rating_avg": 4.3,
         "rating_count": 59,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL30",
                 "color": "NATURAL",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/473945/item/goods_30_473945_3x4.jpg"
             },
             {
                 "variant_id": "COL31",
                 "color": "BEIGE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/473945/item/goods_31_473945_3x4.jpg"
             }
         ]
@@ -2110,23 +2311,24 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E473944-000/00",
         "rating_avg": 4.4,
         "rating_count": 39,
+        "sizes": [
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL30",
                 "color": "NATURAL",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/473944/item/goods_30_473944_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/473944/item/goods_09_473944_3x4.jpg"
             },
             {
                 "variant_id": "COL31",
                 "color": "BEIGE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/473944/item/goods_31_473944_3x4.jpg"
             }
         ]
@@ -2142,17 +2344,21 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482671-000/00",
         "rating_avg": 3.2,
         "rating_count": 4,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
         "variants": [
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482671/item/goods_09_482671_3x4.jpg"
             },
             {
                 "variant_id": "COL30",
                 "color": "NATURAL",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482671/item/goods_30_482671_3x4.jpg"
             }
         ]
@@ -2168,23 +2374,27 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482678-000/00",
         "rating_avg": 4.7,
         "rating_count": 4,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482678/item/goods_09_482678_3x4.jpg"
             },
             {
                 "variant_id": "COL10",
                 "color": "PINK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482678/item/goods_10_482678_3x4.jpg"
             },
             {
                 "variant_id": "COL30",
                 "color": "NATURAL",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482678/item/goods_30_482678_3x4.jpg"
             }
         ]
@@ -2198,19 +2408,23 @@
         "price": 6.9,
         "currency": "USD",
         "product_url": "https://www.uniqlo.com/us/en/products/E485525-000/00",
-        "rating_avg": 5,
-        "rating_count": 1,
+        "rating_avg": 4.5,
+        "rating_count": 2,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
         "variants": [
             {
                 "variant_id": "COL01",
                 "color": "OFF WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/485525/item/goods_01_485525_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/485525/item/goods_69_485525_3x4.jpg"
             }
         ]
@@ -2226,17 +2440,22 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E485529-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL01",
                 "color": "OFF WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/485529/item/goods_01_485529_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/485529/item/goods_69_485529_3x4.jpg"
             }
         ]
@@ -2252,17 +2471,13 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E480894-000/00",
         "rating_avg": 2.8,
         "rating_count": 17,
+        "sizes": [
+            "XS"
+        ],
         "variants": [
-            {
-                "variant_id": "COL09",
-                "color": "BLACK",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/480894/item/goods_09_480894_3x4.jpg"
-            },
             {
                 "variant_id": "COL30",
                 "color": "NATURAL",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/480894/item/goods_30_480894_3x4.jpg"
             }
         ]
@@ -2278,17 +2493,21 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482702-000/00",
         "rating_avg": 2.2,
         "rating_count": 7,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
         "variants": [
             {
                 "variant_id": "COL01",
                 "color": "OFF WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482702/item/goods_01_482702_3x4.jpg"
             },
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482702/item/goods_69_482702_3x4.jpg"
             }
         ]
@@ -2304,29 +2523,32 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482696-000/00",
         "rating_avg": 3,
         "rating_count": 4,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482696/item/goods_09_482696_3x4.jpg"
             },
             {
                 "variant_id": "COL30",
                 "color": "NATURAL",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482696/item/goods_30_482696_3x4.jpg"
             },
             {
                 "variant_id": "COL31",
                 "color": "BEIGE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482696/item/goods_31_482696_3x4.jpg"
             },
             {
                 "variant_id": "COL34",
                 "color": "BROWN",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482696/item/goods_34_482696_3x4.jpg"
             }
         ]
@@ -2342,17 +2564,22 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482700-000/00",
         "rating_avg": 5,
         "rating_count": 1,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL01",
                 "color": "OFF WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482700/item/goods_01_482700_3x4.jpg"
             },
             {
                 "variant_id": "COL60",
                 "color": "LIGHT BLUE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482700/item/goods_60_482700_3x4.jpg"
             }
         ]
@@ -2368,11 +2595,16 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E482698-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
         "variants": [
             {
                 "variant_id": "COL69",
                 "color": "NAVY",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482698/item/goods_69_482698_3x4.jpg"
             }
         ]
@@ -2388,62 +2620,28 @@
         "product_url": "https://www.uniqlo.com/us/en/products/E484793-000/00",
         "rating_avg": 0,
         "rating_count": 0,
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "variants": [
             {
                 "variant_id": "COL10",
                 "color": "PINK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/484793/item/goods_10_484793_3x4.jpg"
             },
             {
                 "variant_id": "COL01",
                 "color": "OFF WHITE",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/484793/item/goods_01_484793_3x4.jpg"
             },
             {
                 "variant_id": "COL09",
                 "color": "BLACK",
-                "sizes": [],
                 "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/484793/item/goods_09_484793_3x4.jpg"
-            }
-        ]
-    },
-    {
-        "id": "uniqlo_E480892-000",
-        "brand": "UNIQLO",
-        "name": "High Rise Briefs",
-        "category": "innerwear",
-        "gender": "WOMEN",
-        "price": 6.9,
-        "currency": "USD",
-        "product_url": "https://www.uniqlo.com/us/en/products/E480892-000/00",
-        "rating_avg": 2.5,
-        "rating_count": 19,
-        "variants": [
-            {
-                "variant_id": "COL31",
-                "color": "BEIGE",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/480892/item/goods_31_480892_3x4.jpg"
-            },
-            {
-                "variant_id": "COL09",
-                "color": "BLACK",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/480892/item/goods_09_480892_3x4.jpg"
-            },
-            {
-                "variant_id": "COL30",
-                "color": "NATURAL",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/480892/item/goods_30_480892_3x4.jpg"
-            },
-            {
-                "variant_id": "COL34",
-                "color": "BROWN",
-                "sizes": [],
-                "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/480892/item/goods_34_480892_3x4.jpg"
             }
         ]
     }
